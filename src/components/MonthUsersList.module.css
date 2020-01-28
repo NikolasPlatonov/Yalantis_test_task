@@ -1,0 +1,30 @@
+.userList {
+  margin-left: 2px;
+  margin-right: 2px;
+  text-align: left;
+  font-size: small;
+}
+
+.buttonGray {
+  background-color: gray;
+  color: white;
+  font-size: large;
+}
+
+.buttonBlue {
+  background-color: blue;
+  color: white;
+  font-size: large;
+}
+
+.buttonGreen {
+  background-color: green;
+  color: white;
+  font-size: large;
+}
+
+.buttonRed {
+  background-color: red;
+  color: white;
+  font-size: large;
+}
